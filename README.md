@@ -8,4 +8,5 @@ C++刷题，解决你的做题问题
 + 至于都有什么用请自行猜测。
 
 ## Developed by 
-Haruue Icymoon <haruue@caoyue.com.cn>
+Haruue Icymoon <haruue@caoyue.com.cn>   
+!!! NO TECHNIQUE SUPPORTING PROVIDED !!!
