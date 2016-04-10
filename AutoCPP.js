@@ -20,4 +20,9 @@ function getAnswer() {
 	}
 }
 
-$f3.makeChoice(getAnswer());
+function choice() {
+	$f3.makeChoice(getAnswer());
+	setTimeout("choice()", 2700);
+}
+
+choice();
